@@ -41,6 +41,13 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Free-Swallow&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Free-Swallow&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Free-Swallow&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Free-Swallow&theme=2077" />
 </div>
 
+---
+
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/A8rVmB739PbT3UlMUH/giphy.gif" width="200" />
+  <h2>さよなら</h2>
+</div>
