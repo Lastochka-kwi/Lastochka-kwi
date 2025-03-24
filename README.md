@@ -39,9 +39,9 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U2MDZlYjdjYWViMTdlYjllMGU0NzNlMDZjMTBhOTMzODhiOWRmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kBDi7zDeHJXb9qvo4Y/giphy.gif" width="50" /> My Stats:
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Free-Swallow&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Free-Swallow&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Free-Swallow&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lastochka-kwi&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lastochka-kwi&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lastochka-kwi&theme=2077" />
 </div>
 
 ---
