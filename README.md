@@ -28,10 +28,12 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
     <img src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" alt="pug" title="pug" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" title="eslint" width="40" height="40" />&nbsp;
+    </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" alt="webstorm" title="webstorm" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" title="react" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40" />&nbsp;
+    </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" title="typescript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" title="gulp" width="40" height="40" />&nbsp;
