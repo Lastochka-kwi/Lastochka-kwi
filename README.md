@@ -39,6 +39,10 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
   </div>
   <div>
     <h3>Data Sciense stack:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" title="numpy" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" title="pycharm" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" width="40" height="40" />&nbsp;
   </div>
 </div>
 
