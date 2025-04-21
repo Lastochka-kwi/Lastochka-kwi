@@ -9,7 +9,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhODc0ZTM5ZWMwZmM5YzMyNmJiOGJhZTZlZDZhNjk5YzgxODg3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/EdB2g3VFDoKs57oe1w/giphy.gif" width="40" /> About Me :
-I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJkNjg2NTMwYTRmODA5OTBjNTg5NjM2NzE0NTIxMzZmNDAwNzcwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/IizHZy80WZbkmHiaVP/giphy.gif" width="40" />
+I'm beginner Data Scientist from Norilsk.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJkNjg2NTMwYTRmODA5OTBjNTg5NjM2NzE0NTIxMzZmNDAwNzcwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/IizHZy80WZbkmHiaVP/giphy.gif" width="40" />
 - 🇷🇺 I speak Russian
 - 🇬🇧 Recently started learning English
 
