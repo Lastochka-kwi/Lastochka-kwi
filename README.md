@@ -18,7 +18,7 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY5OTY4Mzk0ZTczYWMzMzI4YjU2YWYyMGIzNDgzMjk0ZGQ5NmRkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3uKw2QfFkJ6zyvD5cU/giphy.gif" width="40" /> Languages and Tools:
 <div>
   <div>
-    Front-end stack:
+    <h3>Front-end stack:<h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" title="css3" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" title="babel" width="40" height="40" />&nbsp;
