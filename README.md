@@ -16,14 +16,13 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY5OTY4Mzk0ZTczYWMzMzI4YjU2YWYyMGIzNDgzMjk0ZGQ5NmRkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3uKw2QfFkJ6zyvD5cU/giphy.gif" width="40" /> Languages and Tools:
-<div style="display: flex; flex-direction: row;">
+<div>
   <div>
     <h3>Front-end stack:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" title="css3" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" title="babel" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="40" height="40" />&nbsp;
-    </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40" />&nbsp;
     <img src="https://github.com/pugjs/pug-logo/blob/master/SVG/pug-final-logo-_-colour-128.svg" alt="pug" title="pug" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" />&nbsp;
@@ -33,7 +32,6 @@ I'm beginner Front-end developer from Norilsk.<img src="https://media.giphy.com/
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" title="react" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40" />&nbsp;
-    </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" title="typescript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" title="gulp" width="40" height="40" />&nbsp;
